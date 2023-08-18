@@ -1,0 +1,21 @@
+
+#movies  {
+    margin-top: 5%;
+    
+}
+
+#movies img, #movie img {
+    width: 100%;
+    
+}
+
+/* @media(min-width:960px){
+    #movies .col-md-3 {
+        height: 390px;
+       
+    }
+    #movies .col-md-3 img {
+        height: 340px;
+     
+    }
+} */
